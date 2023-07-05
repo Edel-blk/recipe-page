@@ -1,0 +1,22 @@
+h1 {
+  font-size: 24px;
+  font-family: Playfair Display;
+}
+
+img {
+  width: 100%;
+}
+
+p {
+  color: var(--gray-2, #4F4F4F);
+  font-size: 12px;
+  font-family: Montserrat;
+  font-style: italic;
+  font-weight: 500;
+  margin: 0px;
+}
+
+.header-description {
+  display: flex;
+  margin-bottom: 20px;
+}
