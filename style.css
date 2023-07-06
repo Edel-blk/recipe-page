@@ -26,4 +26,37 @@ ul {
 .header-description {
   display: flex;
   margin-bottom: 20px;
+  gap: 10px;
+  align-items: flex-start;
 }
+
+.dots-image {
+  width: 15px;
+  margin-top: 4px;
+}
+
+.yields {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-family: Montserrat;
+  color: var(--gray-4, #BDBDBD);
+  font-size: 8px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.servings {
+  color: var(--orange, #F2994A);
+  font-size: 10px;
+}
+
+.recipe-description {
+  margin-top: 25px;
+}
+
+.material-icons {
+
+}
+
+.material-icons.orange { color: #F2994A; }
