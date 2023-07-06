@@ -20,7 +20,15 @@ ul {
   list-style: none;
   padding: 0px;
   display: flex;
-  justify-content: space-evenly;
+  font-family: Montserrat;
+  gap: 40px;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 12px;
 }
 
 .header-description {
@@ -40,15 +48,19 @@ ul {
   align-items: center;
   gap: 5px;
   font-family: Montserrat;
+}
+
+.sub-header {
+  font-family: Montserrat;
   color: var(--gray-4, #BDBDBD);
-  font-size: 8px;
+  font-size: 10px;
   font-weight: 700;
   text-transform: uppercase;
 }
 
 .servings {
   color: var(--orange, #F2994A);
-  font-size: 10px;
+  font-size: 13px;
 }
 
 .recipe-description {
