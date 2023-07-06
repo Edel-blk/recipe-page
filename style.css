@@ -16,6 +16,13 @@ p {
   margin: 0px;
 }
 
+ul {
+  list-style: none;
+  padding: 0px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
 .header-description {
   display: flex;
   margin-bottom: 20px;
