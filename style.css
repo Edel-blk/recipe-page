@@ -45,6 +45,17 @@ li {
   font-size: 12px;
 }
 
+footer {
+  color: #BDBDBD;
+  text-align: center;
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 500;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  width: 100%;
+}
+
 .header-description {
   display: flex;
   margin-bottom: 20px;
